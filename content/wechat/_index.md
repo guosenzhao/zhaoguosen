@@ -1,5 +1,5 @@
 ---
-title: "wechat article"
+title: "微信公众号推文汇总"
 author: "zhaoguosen"
 layout: docs
 
