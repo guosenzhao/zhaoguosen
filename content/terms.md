@@ -7,11 +7,8 @@ header:
   caption: ""
   image: ""
 share: false
-<<<<<<< HEAD
 #title: Terms
-=======
 title: Terms
->>>>>>> main
 ---
 
 ...

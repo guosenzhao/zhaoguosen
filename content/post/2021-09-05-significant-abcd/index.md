@@ -14,11 +14,8 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-<<<<<<< HEAD
 lastmod: "Sys.Date()"
-=======
 lastmod: "2021-09-05T21:26:00Z"
->>>>>>> main
 projects: []
 subtitle: "\U0001F44B 显著性差异分析之后，需要标注差异结果。通常有两种方式，即：用星号标注；或者abcd标注。
 两种方式都是可以的，不过当组别较少时，可能*较为直观；当组别较多时，abcd更为简洁。"
