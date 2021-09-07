@@ -3,7 +3,7 @@ linktitle: 所思所想
 summary: 心中所思，所想。
 weight: 1
 
-title: informal essay
+title: Informal essay
 #date:""
 #lastmod: ""
 #draft: false

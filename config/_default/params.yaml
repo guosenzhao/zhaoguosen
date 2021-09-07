@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: true
-font: ''
+font: 'Rose'          #Minimal     Classic       Rose       Mr Robot      Native
 font_size: m
 
 # SEO
