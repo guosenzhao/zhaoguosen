@@ -2,7 +2,7 @@
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -11,7 +11,7 @@ headless: true
 weight: 65
 
 title: Projects
-subtitle: ''
+subtitle: 'Ongoing projects'
 
 content:
   # Page type to display. E.g. project.
@@ -28,10 +28,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Picture
+    tag: picture
   - name: Other
-    tag: Demo
+    tag: kk
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

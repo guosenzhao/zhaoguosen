@@ -35,22 +35,32 @@ social:
 - icon: rss
   icon_pack: fas
   link: https://zhaoguosen.netlify.app/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/guosenzhao
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Zhao-Guosen
-- icon: zhihu
-  icon_pack: fab
-  link: https://www.zhihu.com/people/guosen-zhao
-- icon: weixin
-  icon_pack: fab
-  link: 
-- icon: qq
-  icon_pack: fab
-  link: 
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/guosenzhao
+- icon: pubmed
+  icon_pack: ai
+  link: https://pubmed.ncbi.nlm.nih.gov/
 
+
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Zhao-Guosen
+#- icon: zhihu
+#  icon_pack: fab
+#  link: https://www.zhihu.com/people/guosen-zhao
+- icon: sci-hub
+  icon_pack: ai
+  link: https://sci-hub.st/
+- icon: google-scholar
+  icon_pack: ai
+  link: 
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/my-orcid?orcid=0000-0001-6361-4518
+- icon: stackoverflow
+  icon_pack: ai
+  link: https://stackoverflow.com/
 
 superuser: true
 title: Guosen Zhao

@@ -9,11 +9,11 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/georgecushen
-slides: example
-summary: An example of using the in-built project page.
+slides: legaomasic
+summary: 这是我用R语言设置的乐高马赛克头像.
 tags:
-- Deep Learning
-title: Internal Project
+- picture
+title: 这个头像怎么样？
 url_code: ""
 url_pdf: ""
 url_slides: ""
