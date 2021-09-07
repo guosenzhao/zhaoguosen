@@ -7,17 +7,17 @@ main:
   - name: About me
     url: '#about'
     weight: 10
-  - name: Posts
+  - name: Note        #Posts
     url: '#posts'
     weight: 20
-  - name: Projects
+  - name: Mood         #Projects
     url: '#projects'
     weight: 30
 #  - name: Talks
 #    url: '#talks'
 #    weight: 40
-  - name: Publications
-    url: '#featured'
+  - name: Research Article     #featured
+    url: '#research-article'
     weight: 50
 #  - name: Gallery     
 #    url: '#Gallery'     

@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Romantic
-subtitle: "This is my little sky"
+title: Research Article
+subtitle: 
 
 content:
   # Page type to display. E.g. post, talk, publication...

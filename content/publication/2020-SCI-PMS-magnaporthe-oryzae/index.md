@@ -11,38 +11,41 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: true
-links:
-- name: Custom Link
-  url: http://example.org
-projects:
-- internal-project
+#links:
+#- name: Custom Link
+#  url: http://example.org
+#projects:
+#- internal-project
 publication: In **Pest Management Science**
 publication_short: In **Pest Management Science**
 publication_types:
 - "2"
 publishDate: "2020-07-01T00:00:00Z"
-slides: example
+slides: 
 summary: 
 
 tags:
 - Reasearch article
 title: Three Point‐Mutations in Cytochrome b Confer Resistance to Trifloxystrobin in Magnaporthe grisea
-url_code: '#'
-url_dataset: '#'
+#url_code: '#'
+#url_dataset: '#'
 url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/ps.5990
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
+#url_poster: '#'
+#url_project: ""
+#url_slides: ""
+#url_source: '#'
+#url_video: '#'
+
+# {{% callout note %}} 
+# Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
+
+#{{% callout note %}} 
+#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management #software.
+#{{% /callout %}}
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Supplementary notes can be added here, including [code, math, and images](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ps.5990).

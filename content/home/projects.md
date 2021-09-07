@@ -10,8 +10,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
-subtitle: 'Ongoing projects'
+title: Recent Mood
+subtitle: 想记录一些有趣的内容
 
 content:
   # Page type to display. E.g. project.

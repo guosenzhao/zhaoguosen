@@ -5,22 +5,24 @@ education:
  # - course: PhD in Artificial Intelligence
  #   institution: Stanford University
  #   year: 2012
-  - course: 学术型硕士研究生
+  - course: Academic Master
     institution: Northwest A&F University
-    year: 2020至今
-  - course: 农学学士
+    year: 2020 present
+  - course: Bachelor of Agriculture 
     institution: Northwest A&F University
     year: 2014-2020
 email: ""
 highlight_name: false
 interests:
-- Molecular biology
-- Bioinformatics
+- Cook
+- Music
 - Marathon
+- Thinking
+- Cat
 organizations:
 - name: Northwest A&F University
   url: https://www.nwsuaf.edu.cn/
-role: Graduate Student of Plant immunity
+role: Graduate Student in Plant Immunity
 
 social:
 #- icon: envelope
@@ -65,11 +67,15 @@ social:
 superuser: true
 title: Guosen Zhao
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/赵国森.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#我是一名植物病理学专业硕士研究生，主要研究方向为植物免疫机制，具体研究内容为小麦植物受体类激酶的鉴定和功能研究。目前独立创办微信公众号《今日之森》，主要分享分子生物学实验原理和生物信息学小知识点。
 ---
 
-我是一名植物病理学专业硕士研究生，主要研究方向为植物免疫机制，具体研究内容为小麦植物受体类激酶的鉴定和功能研究。目前独立创办微信公众号《今日之森》，主要分享分子生物学实验原理和生物信息学小知识点。
 
-自创办微信公众号《今日之森》以来，已有3000+关注量。依托微信公众号建立的学术交流QQ群，目前已吸引国内外500+硕博士研究生加入讨论。     
+**人生就像是激起的一朵浪花，转瞬即逝，却也希望飞舞的日子里既能经历人性的可爱，也能经历物性的神奇。**
+
+这个网站依托微信公众号《今日之森》搭建，旨在更加系统的汇总以往发布的推文。简单介绍一下自己吧。硕士研究生在读，植物免疫机制的探究。与大多数研究生一样，要么搬砖，要么就在搬砖的路上。但无论如何，做自己最重要。在这个世界上也只有自己清楚内心的想法，能够时常洞察心绪的波动。所以，**敢想**，更要**敢干**。
+
+自创办微信公众号《今日之森》以来，主要分享分子生物学实验原理和生物信息学小知识点，偶尔记录一些生活感悟。3000+关注量。今日之森学术交流QQ群，目前已吸引国内外500+硕博士研究生加入讨论。也欢迎你的加入。{{< icon name="qq" pack="fab" >}} 群号码：908235922
 
 {{< icon name="envelope" pack="fas" >}} zhaoguosen@nwafu.edu.cn
 

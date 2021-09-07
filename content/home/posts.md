@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Recent Notes
-subtitle:
+subtitle: 主要记录一些较为专业的内容。
 
 content:
   # Page type to display. E.g. post, talk, publication...

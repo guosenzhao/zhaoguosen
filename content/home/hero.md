@@ -3,7 +3,7 @@ widget: hero
 headless: true
 active: true
 weight: 10
-title: I'm Guosen.
+title: How far is it? Just a thought.
 hero_media: jinrizhisen.png
 #cta:
 #  label: '**Get Started**'
@@ -33,14 +33,14 @@ design:
     # Use a fun parallax-like fixed background effect on desktop? true/false     
     image_parallax: true     
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: true
+    text_color_light: false
 
 advanced:
   css_class: fullscreen
 ---
 
-**Welcome to my personal webpage.** Maybe you will find a new land, if you also are a Graduate Student. 
+Hi, this is Today's Sen. Welcome to my personal web page. This is my world.
 
-**I usually share the principles of molecular biology and some tips of bioinformatics.**
+Here mainly records life perception. By the way, the experimental principles of molecular biology related to the study of plant gene function will be recorded. If you're interested, just explore it? :milky_way:
 
 
