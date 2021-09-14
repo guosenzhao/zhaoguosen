@@ -26,6 +26,6 @@ main:
   - name: Official Accounts Article
     url: wechat/
     weight: 70
-#  - name: Contact
-#    url: '#contact'
-#    weight: 80
+  - name: Blog
+    url: 'https://gswechatarticle.netlify.app/'
+    weight: 80
