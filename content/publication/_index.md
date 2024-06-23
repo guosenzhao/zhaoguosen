@@ -1,8 +1,8 @@
 ---
 cms_exclude: true
 header:
-  caption: ""
-  image: ""
-title: Publications
-view: 4
+#  caption: ""
+#  image: ""
+title: 已发表文章
+view: 5
 ---
