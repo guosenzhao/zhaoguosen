@@ -5,7 +5,7 @@ widget: pages
 
 # This file represents a page section.
 headless: true
-active: false 
+active: false
 # Order that this section appears on the page.
 weight: 90
 
@@ -22,21 +22,18 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
   # Filter on criteria
-  filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: true
+#  filters:
+#    tag: ''
+#    category: ''
+#    publication_type: ''
+#    author: ''
+#    exclude_featured: true
 design:
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  # view: 2
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
