@@ -5,12 +5,12 @@ widget: pages
 
 # This file represents a page section.
 headless: true
-
+# active: false 
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Notes
-subtitle: 主要记录一些较为专业的内容。
+title: 日常笔记
+subtitle: 
 
 content:
   # Page type to display. E.g. post, talk, publication...

@@ -6,11 +6,9 @@ theme: "starter-hugo-academic"
 
 title: Today's Sen # Website name
 baseurl: 'https://academic-demo.netlify.app/' # Website URL
-<<<<<<< HEAD
-copyright: '今日之森&copy; 2021' # Footer text, e.g. '© {year} Me'
-=======
-copyright: '今日之森&copy; 2023' # Footer text, e.g. '© {year} Me'
->>>>>>> main
+
+copyright: '今日之森&copy; 2021-2024' # Footer text, e.g. '© {year} Me'
+
 
 ############################
 ## LANGUAGE

@@ -10,8 +10,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Recent Mood
-subtitle: 想记录一些有趣的内容
+title: 点滴生活
+subtitle: 世界从不缺美
 
 content:
   # Page type to display. E.g. project.

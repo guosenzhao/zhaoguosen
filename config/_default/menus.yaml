@@ -7,9 +7,43 @@ main:
   - name: About me
     url: '#about'
     weight: 10
-  - name: Note        #Posts
-    url: '#posts'
+    
+
+  - name: 汇总        #Posts
+    url: 
     weight: 20
+    
+  - name: 日常笔记
+    parent: 汇总
+    url: '#posts'
+    weight: 21
+      
+  - name: 科研软件
+    parent: 汇总
+    url: '#posts'
+    weight: 22
+      
+  - name: 网页工具
+    parent: 汇总
+    url: '#posts'
+    weight: 23
+      
+  - name: 办公
+    parent: 汇总
+    url: '#posts'
+    weight: 24
+      
+  - name: 图片工具
+    parent: 汇总
+    url: '#posts'
+    weight: 25
+      
+  - name: 跑步
+    parent: 汇总
+    url: '#posts'
+    weight: 26
+    
+    
   - name: Mood         #Projects
     url: '#projects'
     weight: 30
@@ -17,7 +51,7 @@ main:
 #    url: '#talks'
 #    weight: 40
   - name: Research Article     #featured
-    url: '#research-article'
+    url: 'publication'
     weight: 50
 #  - name: Gallery     
 #    url: '#Gallery'     
