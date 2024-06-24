@@ -47,12 +47,26 @@ main:
   - name: 点滴生活         #Projects
     url: '#projects'
     weight: 30
-#  - name: Talks
-#    url: '#talks'
-#    weight: 40
+    
+  - name: 基因组下载        #talks
+    url: 
+    weight: 40
+  - name: 小麦基因组
+    parent: 基因组下载
+    url: 'genome'
+    weight: 41
+  - name: 条锈菌基因组
+    parent: 基因组下载
+    url: 'pst'
+    weight: 42
+
+
+
+
   - name: 已发表文章     #featured
     url: "publication"
     weight: 50
+    
 #  - name: Gallery     
 #    url: '#Gallery'     
 #    weight: 60
