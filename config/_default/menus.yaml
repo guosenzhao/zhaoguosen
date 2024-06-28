@@ -20,27 +20,27 @@ main:
       
   - name: 科研软件
     parent: 汇总
-    url: '#posts'
+    url: 'software'
     weight: 22
       
   - name: 网页工具
     parent: 汇总
-    url: '#posts'
+    url:
     weight: 23
       
   - name: 办公
     parent: 汇总
-    url: '#posts'
+    url: 
     weight: 24
       
   - name: 图片工具
     parent: 汇总
-    url: '#posts'
+    url: 
     weight: 25
       
   - name: 跑步
     parent: 汇总
-    url: '#posts'
+    url: 
     weight: 26
     
     
