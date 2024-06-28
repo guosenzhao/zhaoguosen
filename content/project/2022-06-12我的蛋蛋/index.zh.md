@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2022 06 12 我的蛋蛋"
+title: "2022 06 12 我们"
 subtitle: ""
 summary: ""
 authors: []
@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
- 我和我的蛋蛋
+ 我们
  
  总有一些感觉是需要被记录的
  公众号无意间已经不再自由
@@ -56,5 +56,24 @@ projects: []
  
  我们都是幸运的
  
-2023-08-10
+2023-08-10  
 好神奇，不知不觉就快两年了。再过几天就要奔赴山东了。嘿嘿
+
+
+![panda](panda.jpg)
+
+<left>
+<img src="panda.jpg" width=20%>  
+</left>
+
+
+2024-6-28 
+也许世界上最快的速度并非光速。  
+一直觉得，  
+等回首来时的路，  
+或历历在目，  
+或模糊不清。  
+都已实实在在的发生在逝去的岁月，  
+大概，这才是世上最让人来不及反应的。  
+895天。 
+祝福。  
