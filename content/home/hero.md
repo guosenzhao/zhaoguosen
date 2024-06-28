@@ -3,7 +3,7 @@ widget: hero
 headless: true
 active: true
 weight: 10
-title: How far is it? Just a thought.
+title: 还有多远，一年之间
 hero_media: jinrizhisen.png
 #cta:
 #  label: '**Get Started**'
@@ -39,8 +39,24 @@ advanced:
   css_class: fullscreen
 ---
 
-Hi, this is Today's Sen. Welcome to my personal web page. This is my world.
+人生就是一场马拉松，不断奔跑。
 
-Here mainly records life perception. By the way, the experimental principles of molecular biology related to the study of plant gene function will be recorded. If you're interested, just explore it? :milky_way:
+从一个站点到下一个站点。
 
+边跑边调整，边跑边补充能量。
 
+有的人难以忍受路途中的不适。
+
+提前退场，亦或跑进岔路。
+
+有的人目标明确，没想太多。只管跑
+
+成功抵达终点啊！:runner:
+
+途中的每一步都必然艰难，
+
+免不了风吹日晒，严寒酷署。
+
+但只愿
+
+最后坦然。
